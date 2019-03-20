@@ -1,8 +1,6 @@
 # DenseNet
 
-'''
 Paper: https://arxiv.org/abs/1608.06993
-'''
 
 Build and train a generic DenseNet(-BC) using the CIFAR-10 dataset. 
 
